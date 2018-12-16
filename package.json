@@ -1,0 +1,18 @@
+{
+  "name": "kodutoo_3_node",
+  "version": "1.0.0",
+  "description": "Andmebaaside 3.kodutoo web api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simone ja Sten",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "morgan": "^1.9.1",
+    "mssql": "^4.3.0",
+    "redis": "^2.8.0"
+  }
+}
